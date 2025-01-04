@@ -142,12 +142,14 @@ class DecisionTree:
 
     def predict_proba(self, X_set: np.array) -> np.array:
         """Returns predicted probabilities for each sample in X_set."""
-        pred_probs = np.apply_along_axis(self._predict_one_sample, 1, X_set)
+        # Ensure the prediction probabilities are returned as an array
+        pred_probs = np.array([self._predict_one_sample(sample) for sample in X_set])
         return pred_probs
 
     def predict(self, X_set: np.array) -> np.array:
         """Predicts labels for each sample in X_set."""
         pred_probs = self.predict_proba(X_set)
+        # Ensure we are taking the max probability to get the final prediction
         preds = np.argmax(pred_probs, axis=1)
         return preds
 
