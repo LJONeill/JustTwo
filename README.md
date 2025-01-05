@@ -1,6 +1,5 @@
 # Machine Learning Project
-
-# Fashion Image Classification with Machine Learning
+Fashion Image Classification with Machine Learning
 
 ## Project Overview
 
