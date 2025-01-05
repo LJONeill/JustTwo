@@ -1,6 +1,6 @@
 import numpy as np
 from collections import Counter
-from treenode import TreeNode
+from implementations.treenode import TreeNode
 
 class DecisionTree:
     
