@@ -25,7 +25,7 @@ These versions were selected to ensure all libraries work together smoothly:
    Fully compatible with matplotlib 3.7.
 
 7. **Mlxtend**: 0.23.3  
-   Works seamlessly with scikit-learn 1.2.2.
+   Works with scikit-learn 1.2.2.
 
 ---
 
