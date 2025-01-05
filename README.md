@@ -48,6 +48,8 @@ conda activate ml_project_env
 
 3. **Neural Network Implementations in Python**: We utilized resources from [this GitHub repository](https://github.com/andresberejnoi/PublicNotebooks/tree/master/Neural%20Networks), which contains scripts and notebooks related to building neural networks from scratch using Python and NumPy. The repository includes implementations of feedforward propagation and backpropagation algorithms, which were instrumental in understanding the underlying mechanics of neural networks.
 
+4. **Decision Tree Implementation from Scratch**:  We referenced [this GitHub file](https://github.com/enesozeren/machine_learning_from_scratch/blob/main/decision_trees/decision_tree.py), which contains an implementation of a decision tree algorithm built from scratch using Python. This resource provided insights into the construction and functionality of decision trees, aiding in our understanding and application of this machine learning technique.
+
 
 
 
