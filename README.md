@@ -42,7 +42,10 @@ conda activate ml_project_env
 
 ## References
 
-- **Feed-Forward Neural Network (FFNN) Model**: We referenced [this Colab notebook](https://colab.research.google.com/drive/16w3TDn_tAku17mum98EWTmjaLHAJcsk0?usp=sharing) for the implementation of a feed-forward neural network using TensorFlow. The notebook served as a guide for structuring our model, including defining layers, compiling the model, training, validation, and evaluation processes.
+1. **Feed-Forward Neural Network (FFNN) Model**: We referenced [this Colab notebook](https://colab.research.google.com/drive/16w3TDn_tAku17mum98EWTmjaLHAJcsk0?usp=sharing) for the implementation of a feed-forward neural network using TensorFlow. The notebook served as a guide for structuring our model, including defining layers, compiling the model, training, validation, and evaluation processes.
+
+2. **Data Preprocessing and Model Evaluation**: We referenced [this Colab notebook](https://colab.research.google.com/drive/1m2cg3D1x3j5vrFc-Cu0gMvc48gWyCOuG#forceEdit=true&sandboxMode=true&scrollTo=jqVqT_Cxh4Ho) for guidance on data preprocessing, splitting the dataset into train-validation-test sets, and model evaluation techniques.
+
 
 
 
