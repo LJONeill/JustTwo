@@ -7,7 +7,7 @@ This project aims to classify fashion images into distinct categories using mach
 
 ## Dataset
 
-We used the Fashion-MNIST dataset, which consists of 70,000 grayscale images of fashion products, each sized at 28x28 pixels. The dataset is divided into 60,000 training images and 10,000 testing images, categorized into 10 classes. :contentReference[oaicite:0]{index=0}
+We used the Fashion-MNIST dataset, which consists of 70,000 grayscale images of fashion products, each sized at 28x28 pixels. The dataset is divided into 60,000 training images and 10,000 testing images, categorized into 10 classes.
 
 ## Getting Started
 
