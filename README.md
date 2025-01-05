@@ -1,5 +1,15 @@
 # Machine Learning Project
 
+# Fashion Image Classification with Machine Learning
+
+## Project Overview
+
+This project aims to classify fashion images into distinct categories using machine learning techniques. We implemented models from scratch, including Decision Trees and Feed-forward Neural Networks, and also utilized established models from libraries like scikit-learn and TensorFlow.
+
+## Dataset
+
+We used the Fashion-MNIST dataset, which consists of 70,000 grayscale images of fashion products, each sized at 28x28 pixels. The dataset is divided into 60,000 training images and 10,000 testing images, categorized into 10 classes. :contentReference[oaicite:0]{index=0}
+
 ## Getting Started
 
 ### Dependencies
