@@ -37,3 +37,10 @@ Set up the environment using:
 ```bash
 conda create -n ml_project_env python=3.11 numpy=1.24.3 scikit-learn=1.2.2 tensorflow=2.18.0 matplotlib=3.7 seaborn=0.13.2 mlxtend=0.23.3
 conda activate ml_project_env
+
+## References
+
+- **Feed-Forward Neural Network (FFNN) Model**: We referenced [this Colab notebook](https://colab.research.google.com/drive/16w3TDn_tAku17mum98EWTmjaLHAJcsk0?usp=sharing) for the implementation of a feed-forward neural network using TensorFlow. The notebook served as a guide for structuring our model, including defining layers, compiling the model, training, validation, and evaluation processes.
+
+
+
