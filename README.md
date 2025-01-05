@@ -46,6 +46,8 @@ conda activate ml_project_env
 
 2. **Data Preprocessing and Model Evaluation**: We referenced [this Colab notebook](https://colab.research.google.com/drive/1m2cg3D1x3j5vrFc-Cu0gMvc48gWyCOuG#forceEdit=true&sandboxMode=true&scrollTo=jqVqT_Cxh4Ho) for guidance on data preprocessing, splitting the dataset into train-validation-test sets, and model evaluation techniques.
 
+3. **Neural Network Implementations in Python**: We utilized resources from [this GitHub repository] (https://github.com/andresberejnoi/PublicNotebooks/tree/master/Neural%20Networks), which contains scripts and notebooks related to building neural networks from scratch using Python and NumPy. The repository includes implementations of feedforward propagation and backpropagation algorithms, which were instrumental in understanding the underlying mechanics of neural networks.
+
 
 
 
